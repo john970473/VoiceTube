@@ -3,8 +3,9 @@
     background-size:cover;
     background-position: center;
     /* background-position-x: 37%; */
-    margin-top: 3coverrem;
-
+    margin-top: 3rem;
+    color: rgb(247, 189, 189);
+    text-align: center;
 
 }
 
