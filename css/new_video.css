@@ -1,0 +1,9 @@
+.new_video_list li{
+	list-style-type: none;
+	display: inline-block;
+	margin-left: 2%;
+}
+
+.index-block .left-section {
+  min-height: 2000px;
+}
